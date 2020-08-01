@@ -1,0 +1,8 @@
+2020-07-20 11:03:00,88430  <module> WARNING  this is test
+2020-07-20 11:22:16,783 20 setUp INFO  this is chrome
+2020-07-20 11:22:35,358 20 setUp INFO  this is chrome
+2020-07-20 11:22:53,468 20 setUp INFO  this is chrome
+2020-07-20 11:23:12,639 20 setUp INFO  this is chrome
+2020-07-20 11:23:31,111 20 setUp INFO  this is chrome
+2020-07-20 11:26:34,096 30 <module> WARNING  this is test
+2020-07-20 11:26:51,304 30 <module> WARNING  this is test
